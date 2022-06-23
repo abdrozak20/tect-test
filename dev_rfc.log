@@ -1,0 +1,58 @@
+
+**** Log file opened at 2022-06-23 07:38:33.285360 UTC+07:00 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 6, Compiled on Feb  6 2020 09:04:28
+ CPIC library: 753.2019.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 525
+ Current working directory: /var/www, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 5.13.0-51-generic
+ Hostname: 0170983157df, IP address: 172.24.0.4, IPv6 address: 
+
+2022-06-23 07:38:33.285437 [140210271943040] >> Info entry
+	Did not find config file /var/www/sapnwrfc.ini.
+
+**** Log file opened at 2022-06-23 07:38:33.285500 UTC+07:00 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 6, Compiled on Feb  6 2020 09:04:28
+ CPIC library: 753.2019.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 525
+ Current working directory: /var/www, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 5.13.0-51-generic
+ Hostname: 0170983157df, IP address: 172.24.0.4, IPv6 address: 
+
+2022-06-23 07:38:33.285542 [140210271943040] >> Error entry
+	The UUID daemon (uuidd) is not active.
+Please ask your system administrator to activate uuidd according to SAP note 1391070.
+
+
+**** Log file opened at 2022-06-23 07:40:45.962718 UTC+07:00 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 6, Compiled on Feb  6 2020 09:04:28
+ CPIC library: 753.2019.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 525
+ Current working directory: /var/www, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 5.13.0-51-generic
+ Hostname: 0170983157df, IP address: 172.24.0.4, IPv6 address: 
+
+2022-06-23 07:40:45.962793 [139982090615168] >> Error entry
+	The UUID daemon (uuidd) is not active.
+Please ask your system administrator to activate uuidd according to SAP note 1391070.
+
+
+**** Log file opened at 2022-06-23 07:41:46.277684 UTC+07:00 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 6, Compiled on Feb  6 2020 09:04:28
+ CPIC library: 753.2019.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 525
+ Current working directory: /var/www, Program: php
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 5.13.0-51-generic
+ Hostname: 0170983157df, IP address: 172.24.0.4, IPv6 address: 
+
+2022-06-23 07:41:46.277751 [139805169170816] >> Error entry
+	The UUID daemon (uuidd) is not active.
+Please ask your system administrator to activate uuidd according to SAP note 1391070.
+
+
+**** Log file opened at 2022-06-23 07:41:49.047173 UTC+07:00 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 6, Compiled on Feb  6 2020 09:04:28
+ CPIC library: 753.2019.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 525
+ Current working directory: /var/www, Program: php
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 5.13.0-51-generic
+ Hostname: 0170983157df, IP address: 172.24.0.4, IPv6 address: 
+
+2022-06-23 07:41:49.047246 [139787538995584] >> Error entry
+	The UUID daemon (uuidd) is not active.
+Please ask your system administrator to activate uuidd according to SAP note 1391070.
+

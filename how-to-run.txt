@@ -1,0 +1,15 @@
+if you have docker in your device, following this instruction:
+1. run docker-compose up / docker compose up (depends on your docker version) in your terminal
+2. this project running in localhost:8686
+if not run php -S localhost:8000 -t public
+
+in this project have 2 endpoint
+- {base_url}/test-one method POST
+    payload :
+    {
+        "first_line": "5 4",
+        "second_line": "1 2 3 4 4"
+    }
+- {base_url}/test-two method POST
+
+don't forget to install dependency with run this command `composer install` and cp .env.example .env to copy the environment file

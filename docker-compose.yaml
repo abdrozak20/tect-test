@@ -1,0 +1,33 @@
+version : '3.8'
+services:
+  tech_test_app:
+    image: ablrozak/docker:php7.4
+    volumes:
+      - ./:/var/www
+      - .docker/php/config.ini:/usr/local/etc/php/conf.d/custom.ini
+    working_dir: /var/www
+    networks:
+      - general_network
+    environment:
+      - TZ=Asia/Jakarta
+    container_name: tech_test_app
+
+  tech_test_nginx:
+    image: nginx:latest
+    volumes:
+      - ./:/var/www
+      - .docker/nginx/default.conf:/etc/nginx/conf.d/default.conf
+    working_dir: /var/www
+    ports:
+      - 8686:80
+    networks:
+      - general_network
+    depends_on:
+      - tech_test_app
+    environment:
+      - TZ=Asia/Jakarta
+    container_name: tech_test_nginx
+
+networks:
+  general_network:
+    external: true
